@@ -1,12 +1,11 @@
 # Getting and Cleaning Data Project
 
-==================================================================
-Tidied Data from Human Activity Recognition Using Smartphones Dataset
-==================================================================
+
+## Tidied Data from Human Activity Recognition Using Smartphones Dataset
 Rajesh Thallam
 Date: 11/22/2014
 Version: 0.1
-==================================================================
+
 
 ## Repository Contents
 
